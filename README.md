@@ -53,6 +53,7 @@ I focus on writing clean, maintainable code and turning real-world problems into
 **Sinhgad Institute of Business Administration and Research, Pune**
 **2024 – 2026**
 **CGPA: 8.04**
+
 Focused on software development, web technologies, databases, programming and application development.
 
 ### Bachelor of Science — B.Sc. Physics
