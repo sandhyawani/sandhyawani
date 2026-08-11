@@ -2,15 +2,16 @@
 
 # 👋 Hi, I'm Sandhya Wani
 
-### Python Django Developer | Full-Stack Developer | MCA 2026
+### Full Stack Developer | MERN | Python | Django | React
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=900&lines=Python+%7C+Django+%7C+React+%7C+MERN;Full-Stack+Web+Developer;Building+Scalable+and+User-Friendly+Applications;Turning+Ideas+into+Real+World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+%7C+Python+%7C+Django;React+%7C+Node.js+%7C+REST+APIs;Building+Real-World+Web+Applications;Turning+Ideas+Into+Working+Products" />
 
 <br>
 
 <a href="https://github.com/sandhyawani">
 <img src="https://img.shields.io/badge/GitHub-sandhyawani-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/sandhya-wani">
 <img src="https://img.shields.io/badge/LinkedIn-Sandhya%20Wani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -18,8 +19,8 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/MCA-2026-6366F1?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Python-Django-3776AB?style=for-the-badge&labelColor=111827" />
 <img src="https://img.shields.io/badge/MERN-Stack-10B981?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Python-Django-3776AB?style=for-the-badge&labelColor=111827" />
 <img src="https://img.shields.io/badge/Pune-Maharashtra-8B5CF6?style=for-the-badge&labelColor=111827" />
 
 </div>
@@ -28,120 +29,160 @@
 
 ## 🚀 About Me
 
-I am a **Master of Computer Applications (MCA) graduate** and a passionate **Python Django / Full-Stack Developer** who enjoys building practical, user-focused web applications.
+I am a **Full Stack Developer** with hands-on experience building **MERN applications, REST APIs, and Python-based tools**.
 
-My development journey covers both **Python-based backend development** and **MERN stack application development**. I enjoy working across the complete development lifecycle — from database design and REST APIs to responsive interfaces and deployment.
+I enjoy working across the complete development lifecycle — from designing APIs and databases to building responsive user interfaces, implementing authentication, integrating real-time features, testing, debugging, and deploying applications.
 
-I focus on writing clean, maintainable code and turning real-world problems into working software.
+I have worked across multiple internships and independently built and deployed a real-time travel social networking platform using the MERN stack.
 
 * 🎓 MCA Graduate — 2026
-* 💻 Python, Django & Django REST Framework
-* ⚛️ React.js & JavaScript
-* 🌐 Node.js, Express.js & MERN Stack
+* 💻 Full Stack Development
+* ⚛️ React.js, Redux, Context API
+* 🟢 Node.js, Express.js & Socket.IO
+* 🐍 Python, Django & Django REST Framework
 * 🗄️ MongoDB, PostgreSQL & SQLite
-* 🔐 REST APIs, JWT Authentication & Middleware
-* ☁️ Vercel, Render & Cloudinary
-* 🧪 Testing, debugging and API integration
-* 📚 Currently strengthening **DSA, SQL and Next.js**
+* 🔐 JWT Authentication & REST API Design
+* ☁️ Cloudinary, Vercel & Render
+* 🧩 Tailwind CSS, Bootstrap & ShadCN UI
+* 🧠 DSA, OOP & Database Design
 
 ---
 
 ## 🎓 Education
 
-### Master of Computer Applications — MCA
+### 🎓 Master of Computer Applications — MCA
 
-**Sinhgad Institute of Business Administration and Research, Pune**
-**2024 – 2026**
-**CGPA: 8.04**
+**Sinhgad Institute of Business Administration and Research, Pune, Maharashtra**
 
-Focused on software development, web technologies, databases, programming and application development.
+**June 2026 | CGPA: 8.04/10**
 
-### Bachelor of Science — B.Sc. Physics
+Focused on software development, programming, databases, web technologies and application development.
 
-**Sir Parshurambhau College, Pune**
-**2019 – 2022**
+### 🔬 Bachelor of Science — Physics
 
-**CGPA: 8.69**
+**Sir Parashurambhau College, Pune, Maharashtra**
 
-Built a strong foundation in analytical thinking, mathematics, problem-solving and scientific reasoning.
+**June 2022 | CGPA: 8.69/10**
+
+Developed strong analytical thinking, mathematical reasoning and problem-solving skills.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java" />
+<img src="https://skillicons.dev/icons?i=javascript,python,java" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,tailwind" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
 
-### Tools & Technologies
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 
+**Additional:** Socket.IO · Cloudinary · ShadCN UI · Django REST Framework
+
 ---
 
-## 🛠️ Core Skills
+# 🛠️ Core Skills
 
-| Area               | Technologies                                       |
-| ------------------ | -------------------------------------------------- |
-| **Languages**      | Python, JavaScript, Java                           |
-| **Frontend**       | HTML5, CSS3, Bootstrap, React.js, Tailwind CSS     |
-| **Backend**        | Django, Django REST Framework, Node.js, Express.js |
-| **Databases**      | MongoDB, PostgreSQL, SQLite                        |
-| **Authentication** | JWT, Authentication & Authorization                |
-| **APIs**           | REST APIs, Axios                                   |
-| **Real-Time**      | Socket.IO                                          |
-| **Cloud & Media**  | Cloudinary                                         |
-| **Deployment**     | Vercel, Render                                     |
-| **Tools**          | Git, GitHub, VS Code, Postman                      |
+| Area               | Technologies                                                     |
+| ------------------ | ---------------------------------------------------------------- |
+| **Languages**      | JavaScript (ES6+), Python, SQL, HTML5, CSS3                      |
+| **Frontend**       | React.js, Redux, Context API, Tailwind CSS, Bootstrap, ShadCN UI |
+| **Backend**        | Node.js, Express.js, Django, Django REST Framework, Socket.IO    |
+| **Databases**      | MongoDB, PostgreSQL, SQLite                                      |
+| **Authentication** | JWT Authentication                                               |
+| **APIs**           | REST API Design, REST APIs                                       |
+| **Cloud & Media**  | Cloudinary                                                       |
+| **Deployment**     | Vercel, Render                                                   |
+| **Foundations**    | DSA, OOP, Database Design                                        |
+| **Tools**          | Git, GitHub, Postman, VS Code                                    |
+
+---
+
+# 💼 Experience
+
+## 🚀 Project Trainee — Techno-Cipher
+
+**Jan 2026 – May 2026**
+
+### Project: Pair My Trip
+
+* Built a full-stack travel application using the **MERN stack**.
+* Owned both **API design and UI implementation**.
+* Designed and shipped responsive interfaces and REST endpoints.
+* Worked with a cross-functional team to deliver features.
+* Resolved bugs and improved application performance.
+
+---
+
+## 🐍 Python Developer Intern — Infosys Springboard
+
+**Oct 2025 – Dec 2025**
+
+### Internship 6.0 — Parallel Text Handling Processor
+
+* Built Python tools for **text processing and data handling**.
+* Completed mandatory technical assignments.
+* Strengthened debugging and problem-solving skills through practical development tasks.
+
+---
+
+## 🌐 Web Development Intern — CodeAlpha
+
+**May 2025 – Aug 2025**
+
+* Built responsive web applications using **HTML, CSS, JavaScript, Bootstrap and React**.
+* Created reusable UI components.
+* Improved consistency and responsiveness across application pages.
+* Followed practical web development and UI implementation practices.
 
 ---
 
 # 🌍 Featured Project
 
-## 🚀 Go YatriGo
+## 🚀 YatriGo
 
-### Travel Social Networking Platform
+### Real-Time Travel Social Networking Platform
 
-**Go YatriGo** is a full-stack travel social networking platform designed to help travelers connect, discover travel buddies, create groups and collaborate on journeys.
+**YatriGo** is a full-stack travel social networking platform that connects travelers through **travel buddies, groups, stories and trip planning**.
 
-It is **not a travel booking platform**. The focus is on social travel, collaboration and journey management.
-
-### ✨ Key Features
+### ✨ Highlights
 
 * 👥 Travel buddy discovery
-* 🌍 Create and join travel groups
-* 🧳 Collaborative journey management
+* 🌍 Travel groups
+* 🧳 Journey and trip planning
 * 💬 Real-time chat using Socket.IO
-* 📸 Posts and travel stories
-* 🔔 Real-time notifications
+* 📸 Stories and social content
 * 🔐 JWT authentication
 * ☁️ Cloudinary media uploads
-* 🆘 SOS and emergency features
+* 🆘 Emergency SOS
 * 📍 Safe check-ins
-* 📱 Responsive user interface
+* 🤝 Journey collaboration
+* 📱 Responsive React interface
+* 🗄️ 29 MongoDB schemas
 
-### 🧩 Tech Stack
+### 🧩 Technology
 
-**Frontend:** React.js, Tailwind CSS, Axios, Socket.IO Client
+**Frontend:** React.js, Tailwind CSS
 **Backend:** Node.js, Express.js, Socket.IO
 **Database:** MongoDB
 **Authentication:** JWT
 **Media:** Cloudinary
 **Deployment:** Vercel + Render
 
-### 🔗 Project
+### 🔗 Links
 
 <a href="https://github.com/sandhyawani/Go-yatriGo">
 <img src="https://img.shields.io/badge/Source%20Code-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
@@ -153,64 +194,84 @@ It is **not a travel booking platform**. The focus is on social travel, collabor
 
 ---
 
-# 📂 Other Projects
+# 💼 Other Projects
 
-## 💼 MERN Job Portal
+## 💻 Job Portal — Recruitment & Trust Verification Platform
 
-A full-stack job portal built using the MERN stack with functionality for job discovery, authentication, applications and employer/user workflows.
+A full-stack recruitment platform built using **React 19, Node.js, Express.js and MongoDB**.
 
-**Tech:** MongoDB · Express.js · React.js · Node.js · JWT
+### Features
 
----
+* Job posting
+* Candidate management
+* Recruiter dashboard
+* Applicant Tracking System
+* Company Trust Score
+* Secure authentication
+* REST APIs
 
-## 🛒 My Shopping Cart
-
-A Django-based e-commerce application developed to practice backend development, database operations and CRUD functionality.
-
-**Tech:** Python · Django · SQLite · HTML · CSS
-
----
-
-## 🎬 Netflix UI Clone
-
-A frontend project created to practice responsive UI development, component-based architecture and modern web design.
-
-**Tech:** React.js · JavaScript · HTML · CSS
+**Tech:** React 19 · Node.js · Express.js · MongoDB · JWT · REST APIs · Tailwind CSS
 
 ---
 
-# 💼 Experience
+## 📊 Financial Text Analyzer
 
-## Front-End Developer Intern
+A Python-based NLP application for analyzing and classifying financial advice.
 
-**TechnoCipher**
+### Features
 
-Worked on company website development and frontend implementation.
+* Financial text classification
+* NLP preprocessing
+* KPI visualization
+* Category filtering
+* CSV export
+* Interactive Streamlit dashboard
 
-### Responsibilities
-
-* Developed responsive website interfaces.
-* Worked with HTML, CSS, JavaScript and Bootstrap.
-* Implemented reusable UI components.
-* Improved website layout and responsiveness.
-* Worked with the development team to implement UI requirements.
-
----
-
-# 📜 Certifications & Learning
-
-* 🐍 **Python for Data Science** — NPTEL — Elite + Silver
-* ☁️ **Web Development Generative AI** — Google Cloud
-* 💻 **Python Foundation & React Project** — Infosys Springboard
-* 📊 **Deloitte Technology Job Simulation** — Forage
-* ☕ **Programming in Java** — NPTEL
-* 🧠 **Fundamentals of OOP**
-* ⚡ **Digital Edge 101**
-* 🤖 **Generative AI Tools**
+**Tech:** Python · Pandas · NumPy · Scikit-learn · NLTK · Streamlit
 
 ---
 
-# 📈 GitHub Stats
+# 🔬 Research Publication
+
+## 🛡️ AI-Enabled Firewall Using Two Metrics — ATRS & RAA
+
+**International Journal of Computer Techniques (IJCT)**
+**Volume 12, Issue 5 — 2025**
+
+Proposed an AI-based firewall framework combining:
+
+* **Adaptive Threat Response Score (ATRS)**
+* **Risk Adaptive Access (RAA)**
+
+The research focuses on dynamic, risk-aware access control and intelligent threat detection.
+
+🔗 **Paper:**
+https://ijctjournal.org/ai-enabled-firewallusing-two-metrics-atrs-raa-ijct/
+
+---
+
+# 🏆 Achievements
+
+🥇 **1st Rank — Techno Quiz Competition**
+College Level
+
+🥇 **1st Rank — Research Poster Competition**
+College Level
+
+---
+
+# 📜 Certifications
+
+* 🏅 **Programming in Java — NPTEL** — Elite, 94%
+* 🧠 **Fundamentals of Object-Oriented Programming — NPTEL**
+* 🐍 **Python for Data Science — NPTEL**
+* 💻 **Python Foundation & React — Infosys Springboard**
+* ☁️ **Web Development with Generative AI — Google Cloud**
+* 🤖 **Gen AI Tools — FutureSkills Prime**
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -234,43 +295,28 @@ Learning:
   - Advanced SQL
   - Next.js
   - Django REST Framework
-  - System Design Fundamentals
+  - Backend Architecture
 
 Improving:
   - Problem Solving
-  - Backend Architecture
   - API Design
   - Database Design
   - Clean Code
+  - Software Development Practices
 
 Building:
   - Full-Stack Applications
-  - Python Django Projects
+  - Python & Django Projects
   - MERN Applications
   - Real-World Developer Projects
 
 Open To:
+  - Full Stack Developer Roles
+  - MERN Developer Roles
   - Python Developer Roles
   - Django Developer Roles
-  - Full-Stack Developer Roles
-  - MERN Developer Roles
-  - Software Developer Internships
+  - Software Developer Opportunities
 ```
-
----
-
-# 🌱 What I'm Looking For
-
-I am currently interested in opportunities where I can work on **real-world software applications**, contribute to development teams and continue growing as a professional developer.
-
-### Open to:
-
-* 🐍 Python Developer
-* 🎯 Django Developer
-* ⚛️ React Developer
-* 🌐 Full-Stack Developer
-* 🚀 MERN Stack Developer
-* 💻 Software Developer / Intern
 
 ---
 
